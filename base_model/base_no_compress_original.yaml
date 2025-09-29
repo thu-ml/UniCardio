@@ -1,0 +1,26 @@
+
+#type: args
+
+train:
+  epochs: 800
+  batch_size: 256 
+  lr: 1.0e-3
+  itr_per_epoch: 1.0e+8
+
+
+diffusion:
+  layers: 5 
+  channels: 288
+  nheads: 8
+  diffusion_embedding_dim: 256
+  beta_start: 0.0001
+  beta_end: 0.5
+  num_steps: 50
+  schedule: "quad"
+  is_linear: False
+
+model:
+  is_unconditional: 0
+  timeemb: 256
+  featureemb: 16
+  target_strategy: "random"
