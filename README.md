@@ -1,4 +1,8 @@
 # Versatile Cardiovascular Signal Generation with a Unified Diffusion Transformer
+
+[![DOI](https://zenodo.org/badge/17240785.svg)](https://zenodo.org/badge/latestdoi/17240785)
+[![LICENSE](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/thu-ml/UniCardio/blob/master/LICENSE)
+
 Cardiovascular signals such as photoplethysmography (PPG), electrocardiography (ECG), and blood pressure (BP) are inherently correlated and complementary, together reflecting the health of cardiovascular system. However, their joint utilization in real-time monitoring is severely limited by diverse acquisition challenges from noisy wearable recordings to burdened invasive procedures. Here we propose UniCardio, a multi-modal diffusion transformer that reconstructs low-quality signals and synthesizes unrecorded signals in a unified generative framework. Its key innovations include a specialized model architecture to manage the signal modalities involved in generation tasks and a continual learning paradigm to incorporate varying modality combinations. By exploiting the complementary nature of cardiovascular signals, UniCardio clearly outperforms recent task-specific baselines in signal denoising, imputation, and translation. The generated signals match the performance of ground-truth signals in detecting abnormal health conditions and estimating vital signs, even in unseen domains, while ensuring interpretability for human experts. These advantages position UniCardio as a promising avenue for advancing AI-assisted healthcare.
 
 The official implementation code will be released here.
