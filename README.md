@@ -31,7 +31,7 @@ https://archive.ics.uci.edu/dataset/340/cuff+less+blood+pressure+estimation
 ```
 python train_original.py
 ```
-this is the code to train the UniCardio
+This is the code to train UniCardio.
 
 ### Inference
 
