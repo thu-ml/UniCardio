@@ -117,5 +117,5 @@ python test_final.py
 
 ## 📬 Contact
 
-If you encounter issues or wish to discuss collaborations, please contact **Yuyang Miao**(ym520@ic.ac.uk) or **Liyuan Wang**.
+If you encounter issues or wish to discuss collaborations, please contact **Yuyang Miao**(ym520@ic.ac.uk) or **Liyuan Wang**(liyuanwang@tsinghua.edu.cn).
 
