@@ -53,19 +53,19 @@ Download from [Cuffless BP ](https://archive.ics.uci.edu/dataset/340/cuff+less+b
 
 ### PTBXL
 
-Download from [PTBXL](https://physionet.org/content/ptb-xl/1.0.3/)
+Download from [PTBXL](https://physionet.org/content/ptb-xl/1.0.3/).
 
 ### MIMIC
 
-Download from [MIMIC](https://physionet.org/content/mimicdb/1.0.0/)
+Download from [MIMIC](https://physionet.org/content/mimicdb/1.0.0/).
 
 ### MIMIC PERform AF 
 
-Download from [MIMIC PERform AF ](https://ppg-beats.readthedocs.io/en/latest/datasets/mimic_perform_af/)
+Download from [MIMIC PERform AF ](https://ppg-beats.readthedocs.io/en/latest/datasets/mimic_perform_af/).
 
 ### WESAD
 
-Download from [WESAD ](https://archive.ics.uci.edu/dataset/465/wesad+wearable+stress+and+affect+detection)
+Download from [WESAD ](https://archive.ics.uci.edu/dataset/465/wesad+wearable+stress+and+affect+detection).
 
 
 ---
