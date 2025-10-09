@@ -8,7 +8,7 @@
   <div>
     Yuyang Miao</strong>,  
     Zehua Chen</strong></a>,   
-    <a href="https://lywang3081.github.io/">Liyuan Wang</a>,
+    Liyuan Wang</a>,
     Luyun Fan,
     Danilo Mandic,
     and Jun Zhu
